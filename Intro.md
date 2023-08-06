@@ -21,5 +21,5 @@ Above, you can see we are using a **Keyword** local.  Keywords cannot be the var
 
 Most of the time, we will be referencing an object through its path.  For example, let's say we want to reference a part in the workspace.
 
-
+![](https://i.imgur.com/f7XCbEH.png)
 
