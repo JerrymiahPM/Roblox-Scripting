@@ -20,5 +20,5 @@ Properties are everywhere.  You'll find properties in every object located in th
 
 ## Conclusion
 
-Now that you know more about the explorer, go back to the (Intro)[Roblox-Scripting/Intro.md]
+Now that you know more about the explorer, go back to the [Intro](Roblox-Scripting/Intro.md)
 
