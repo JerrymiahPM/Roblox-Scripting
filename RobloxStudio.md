@@ -8,6 +8,10 @@ This is where you'll be working.  Let's focus on the explorer.
 
 ## Explorer
 
-When scripting exploits, you'll mostly be using the workspace, players, and replicated storage/replicated first.
+When scripting exploits, you'll mostly be using the workspace, players, and replicated storage/replicated first.  
+
+- The workspace contains all of the objects displayed in the world.
+- The players contain all the players in the game, scripts in the players, and the GUI.
+- replicated storage/replicated first may contain scripts that run the game smoothly.
 
 
