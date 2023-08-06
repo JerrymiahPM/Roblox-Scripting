@@ -35,3 +35,12 @@ A function is a group of code you can call later in the script.  Lets learn how 
 In the code above, we use two keywords.  `local` and `function`.  The `local` keyword makes it local, and the `function` keyword tells Roblox it's going to be a function.  Instead of using `=`, we just put the name and then () which we will talk about later.  Click enter and another keyword `end` will pop up, if it doesn't, make one.  The `end` keyword marks the end of the function.  Put the code inside the function and when you call the function, the code will run.  Let me show you an example of a function.
 
 ![](https://i.imgur.com/hCmbXqt.png)
+
+Here's what the code above does.
+
+- Defines a variable called `str` and assigns the string `Hello World` to it.
+- We define a function called `Func` and inside, we call another built-in function called `print()`.  If you don't know what print does, then idk what to do.
+- We pass in the **parameter**, `str`.
+- Then, the most important part, we call it with `Func()`, and it runs the code inside it.
+
+
