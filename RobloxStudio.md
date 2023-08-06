@@ -14,4 +14,11 @@ When scripting exploits, you'll mostly be using the workspace, players, and repl
 - The players contain all the players in the game, scripts in the players, and the GUI.
 - replicated storage/replicated first may contain scripts that run the game smoothly.
 
+## Properties
+
+Properties are everywhere.  You'll find properties in every object located in the explorer.  
+
+## Conclusion
+
+Now that you know more about the explorer, go back to the (Intro)[Roblox-Scripting/Intro]
 
