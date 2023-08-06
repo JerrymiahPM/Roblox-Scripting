@@ -30,4 +30,4 @@ Functions
 
 A function is a group of code you can call later in the script.  Lets learn how to make one.
 
-[](https://i.imgur.com/m3PAq90.png)
+![](https://i.imgur.com/m3PAq90.png)
