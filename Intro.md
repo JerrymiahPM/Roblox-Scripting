@@ -23,3 +23,4 @@ Most of the time, we will be referencing an object through its path.  For exampl
 
 ![](https://i.imgur.com/f7XCbEH.png)
 
+Above, we are using the `local` keyword
