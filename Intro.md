@@ -31,3 +31,5 @@ Functions
 A function is a group of code you can call later in the script.  Lets learn how to make one.
 
 ![](https://i.imgur.com/m3PAq90.png)
+
+In the code above, we use two keywords.  `local` and `function`.  The `local` keyword makes it local, and the `function` keyword tells Roblox it's going to be a function.  Instead of using `=`, we just put the name and then () which we will talk about later.  Click enter and another keyword `end` will pop up, if it doesn't, make one.
