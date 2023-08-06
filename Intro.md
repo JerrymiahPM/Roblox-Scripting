@@ -45,6 +45,6 @@ Here's what the code above does.
 
 The output will be `Hello World`
 
-[For loops](Forloops.md)
-[Conditional statements](conditions.md)
+- [For loops](Forloops.md)
+- [Conditional statements](conditions.md)
 
