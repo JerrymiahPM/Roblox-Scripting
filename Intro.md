@@ -43,4 +43,8 @@ Here's what the code above does.
 - We pass in the **parameter**, `str`.
 - Then, the most important part, we call it with `Func()`, and it runs the code inside it.
 
+The output will be `Hello World`
+
+[For loops](Forloops.md)
+[Conditional statements](conditions.md)
 
